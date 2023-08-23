@@ -1,1 +1,1 @@
-console.log('Me faz um pix, por farzinho!!')
+console.log('Me faz um pix, por farvozinho!!')
